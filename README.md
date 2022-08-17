@@ -11,4 +11,7 @@ For example, choose VisualStudio2022 if you have Windows, or MacOSX if you use X
 
 Then go open Projucer in the App folder - eg `D:\..\JUCE\extras\Projucer\Builds\VisualStudio2022\x64\Debug\App` <br />
 
-You can now then load the **SimpleEQ** onto this App.
+You can now then load the **SimpleEQ** onto this App. 
+
+Through here you can open this project onto your IDE by clicking onto the IDE icon.
+Then simply run the *Build* or the *Debugger* to run the SimpleEQ app (Standalone version or the VST3 plugin version)
